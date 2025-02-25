@@ -1,0 +1,31 @@
+**Plot Coherence**
+1. Does the plot development in the transition script closely follow the previous script without abrupt jumps?
+   Rating (1-5): 1 - Very inconsistent, 5 - Completely consistent
+2. Are the turning points in the transition script reasonable and do they help drive the overall story forward?
+   Rating (1-5): 1 - Very forced, 5 - Very natural
+3. Does the transition script effectively utilize plot elements from the previous script to enhance the story's coherence?
+   Rating (1-5): 1 - Very incoherent, 5 - Very coherent
+
+**Character Interaction**
+1. Do the character interactions in the transition script align with their personalities and backgrounds, enhancing the story's authenticity?
+   Rating (1-5): 1 - Very inconsistent, 5 - Completely consistent
+2. Are the dialogues and actions between characters natural, facilitating a smooth transition of the plot?
+   Rating (1-5): 1 - Very forced, 5 - Very natural
+3. Do the characters in the transition script have sufficient interaction to maintain the audience's interest and engagement?
+   Rating (1-5): 1 - Very insufficient, 5 - Very sufficient
+
+**Temporal and Spatial Coherence**
+1. Do the time and space transitions in the transition script match the historical context without noticeable errors?
+   Rating (1-5): 1 - Completely inconsistent, 5 - Completely consistent
+2. Do the environment and atmosphere in the transition script remain consistent with the previous script, providing a continuous experience?
+   Rating (1-5): 1 - Very inconsistent, 5 - Completely consistent
+3. Does the transition script appropriately handle time and space transitions, making it easy for the audience to follow?
+   Rating (1-5): 1 - Very difficult, 5 - Very easy
+
+**Immersion**
+1. Does the transition script enhance the audience's immersion through in-depth plot and character development?
+   Rating (1-5): 1 - Not immersive at all, 5 - Very immersive
+2. Do the visual effects and sound design in the transition script effectively support the story's atmosphere, enhancing the immersive experience?
+   Rating (1-5): 1 - Very unsupportive, 5 - Very supportive
+3. Does the transition script further captivate the audience's attention through innovative narrative techniques or interactive elements?
+   Rating (1-5): 1 - Not captivating at all, 5 - Very captivating
