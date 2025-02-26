@@ -1,0 +1,25 @@
+Script Filename,City,Plot Coherence,Character Interaction,Time and Space Coherence,Cultural Fit,Total Score
+Berlin_baseline.txt,Berlin,7.4,2.4,7.4,7.5,24.7
+Berlin_deepseek-v3.txt,Berlin,7.92,2.52,9.12,9,28.56
+Berlin_gpt-4o-mini.txt,Berlin,10.08,2.52,8.88,10.2,31.68
+Berlin_gpt-4o.txt,Berlin,9.36,2.52,9.12,9.6,30.6
+Berlin_gpt4.txt,Berlin,8.88,2.88,8.4,9,29.16
+Berlin_qwen2.5-max.txt,Berlin,8.88,2.52,9.12,9,29.52
+NanJing_baseline.txt,NanJing,5.18,1.68,5.18,5.25,17.29
+NanJing_deepseek-v3.txt,NanJing,7.4,2.1,7,7.5,24
+NanJing_gpt-4o-mini.txt,NanJing,7.4,2.1,7,7,23.5
+NanJing_gpt-4o.txt,NanJing,7.4,2.1,7,7.5,24
+NanJing_gpt4.txt,NanJing,7.2,2.1,7,7.5,23.8
+NanJing_qwen2.5-max.txt,NanJing,7.4,2.1,7.6,7.5,24.6
+Paris_baseline.txt,Paris,7.4,2.4,7.4,7.5,24.7
+Paris_deepseek-v3.txt,Paris,8.88,2.88,9.12,9,29.88
+Paris_gpt-4o-mini.txt,Paris,8.64,2.52,8.4,9,28.56
+Paris_gpt-4o.txt,Paris,7.4,2.4,7.4,7.5,24.7
+Paris_gpt4.txt,Paris,9.84,2.88,9.12,9,30.84
+Paris_qwen2.5-max.txt,Paris,9.84,2.88,9.6,10.8,33.12
+YangZhou_baseline.txt,YangZhou,5.18,1.68,5.18,5.25,17.29
+YangZhou_deepseek-v3.txt,YangZhou,7.4,2.1,7.4,7.5,24.4
+YangZhou_gpt-4o-mini.txt,YangZhou,8.16,2.52,8.4,8.4,27.48
+YangZhou_gpt-4o.txt,YangZhou,7.4,2.1,7,7.5,24
+YangZhou_gpt4.txt,YangZhou,7,2.1,7,7,23.1
+YangZhou_qwen2.5-max.txt,YangZhou,7.4,2.1,7,7.5,24
